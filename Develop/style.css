@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 textarea {
@@ -34,17 +34,17 @@ textarea {
 
 .past {
   background-color: #d3d3d3;
-  color: white;
+  color: black;
 }
 
 .present {
   background-color: rgb(248, 248, 13);
-  color: white;
+  color: black;
 }
 
 .future {
   background-color: lightgreen;
-  color: white;
+  color: black;
 }
 
 .saveBtn {
