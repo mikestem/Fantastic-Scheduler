@@ -9,5 +9,6 @@ Being able to plan your day is key to success. With this day scheduler you will 
 Starter code was cloned to my local computer with new repository created
 
 # Links
+```
 Visit the completed Fantastic-Scheduler: https://mikestem.github.io/Fantastic-Scheduler/
 Visit the github repository at: https://github.com/mikestem/Fantastic-Scheduler
